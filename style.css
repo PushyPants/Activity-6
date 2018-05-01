@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    background-color: lightgrey;
+}
+
+#contentWrapper{
+    display: block;
+    margin: 0 auto;
+    width: 850px;
+    border: 1px solid #333;
+    background-color: #fff;
+    padding: 15px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder;
+    font-size: 40px;
+    padding: 15px;
+    border-bottom: 1px solid #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+    padding: 8px 0;
+}
+
+img {
+    float: left;
+    height: 197px;
+    padding: 0 15px 15px 0px;
+}
+
+.clear {
+    clear: both;
+}
